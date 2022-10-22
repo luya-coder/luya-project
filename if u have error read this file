@@ -1,5 +1,7 @@
-please download ursina and pyautogui
+please download ursina and pyautogui playsound
 open cmd type pip install ursina
 and type pip install pyautogui
+pip install pyautogui
+WARNING: if playsound does not work remove the line. im gonna fix soon. thank you for understanding
 if its not work please email me 
 ariunboldbold200@gmail.com
